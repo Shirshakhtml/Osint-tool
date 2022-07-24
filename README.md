@@ -43,9 +43,6 @@ After installing the above, move the Golang binaries to the /bin folder so that 
 ```bash
 bash osint-tool.sh target-site
 ```  
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## PS
 >This project was made using combination of tools made by [Tomnomnom](https://github.com/tomnomnom)
