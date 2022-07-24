@@ -20,7 +20,7 @@
 
 </div>
 
-<h3 align="center">An Osint-based Information Gathering and Recon tool made in Bash for Automation by using multiple tools.</h3>
+<h3 align="center">An Osint-based Information Gathering and Recon tool made in Bash for Automation.</h3>
 
 ## Requirements
 
