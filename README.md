@@ -16,7 +16,6 @@
 
   <img alt="Osint-tool" src="https://img.shields.io/github/stars/Shirshakhtml/Osint-tool">
   <img alt="Osint-tool" src="https://img.shields.io/github/issues/Shirshakhtml/Osint-tool">
-  <img alt="Osint-tool" src="https://img.shields.io/github/license/Shirshakhtml/Osint-tool>
   <img alt="Osint-tool" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/Osint-tool">
 
 </div>
