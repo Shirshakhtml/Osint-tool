@@ -33,7 +33,7 @@
    - **NMAP :** ```sudo apt install nmap```
    - **HTTPX** (*requires go1.17*) **:** ```go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest```  
 
-3.After installing the above, move the Golang binaries to the /bin folder so that we can use them independently from any shell (You need to be in ```/home/kali/go/bin``` directory)  
+3.After installing the above, move the Golang binaries to the /bin folder so that we can use them independently from any shell (You need to be in ```/home/kali/go/bin``` directory if working in Kali)  
 
  - ```sudo cp httprobe /usr/bin```
  - ```sudo cp assetfinder /usr/bin```
