@@ -27,7 +27,7 @@ echo $PURPLE "Checking for DKIM, SPF and DMARC Records"
 sleep 3
 
 
-echo "DMARC Records"  
+echo "DMARC Records"   
 dig $YELLOW TXT _dmarc.$1
 sleep 5
 echo $Blue "Going to MX Toolbox.."
