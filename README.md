@@ -24,7 +24,7 @@
 
 ## Installation
 1. Run the command `git clone https://github.com/Shirshakhtml/Osint-tool.git`
-2. Then run the following ***Requirements***
+2. Then run the following ***Requirements*** or run the automation script to install all the required tools ***```sudo bash install.sh```***
    - **Toilet and Figlet :** ```sudo apt install toilet figlet```
    - **Go :** ```sudo apt install golang```
    - **HTTPROBE :** ```go install github.com/tomnomnom/httprobe@latest```
