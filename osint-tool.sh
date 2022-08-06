@@ -11,8 +11,25 @@ if [ -z "$1" ]
     echo "No argument supplied....." $Green "Put a domain name and not a Subdomain Please!!"
 else
 
+if [ -f ./domains.txt ];then
+  rm domains.txt
+fi
+if [ -f ./alive.json ];then
+  rm alive.json
+fi
+if [ -f ./alive.txt ];then
+  rm alive.txt
+fi
+if [ -f ./domains.json ];then
+  rm domains.json
+fi
+if [ -f ./domainswithstatuscode.txt ];then
+  rm domainswithstatuscode.txt
+fi
+if [ -f ./whois.txt ];then
+  rm whois.txt
+fi
 
-rm domains.txt alive.json alive.txt domains.json domainswithstatuscode.txt whois.txt
 #toilet -f big -F gay O3Int-t00l
 toilet -f future --filter border:metal 'O3Int-t00l'
 echo "Cleaning the previous files..."
